@@ -22,10 +22,10 @@ You can run the project by entering the command "streamlit run 0_🏠_Home.py" i
 `HR DASHBOARD (ATTRITION PREDICTION RESULT)`
 ![Screenshot (85)](https://github.com/FaaizMohamed/Employee_Attrition/assets/125682181/2147abec-d646-4697-8bcc-80537899505a)
 
-### Project Description: Employee Attrition Prediction and Emotion Detection
+### Project : Employee Attrition Prediction and Emotion Detection
 
 **Objective:**
-The primary goal of this project is to predict employee attrition and monitor employee emotions to enhance employee satisfaction and reduce attrition rates, thereby maintaining productivity in an organization. The project employs machine learning models for attrition prediction and uses computer vision techniques to detect and analyze employee emotions, providing valuable insights to the Human Resources (HR) department.
+The primary goal of this final year project is to predict employee attrition and monitor employee emotions to enhance employee satisfaction and reduce attrition rates, thereby maintaining productivity in an organization. The project employs machine learning models for attrition prediction and uses computer vision techniques to detect and analyze employee emotions, providing valuable insights to the Human Resources (HR) department.
 
 **Technologies Used:**
 - **Machine Learning**: For predicting employee attrition.
