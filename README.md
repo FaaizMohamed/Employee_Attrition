@@ -1,4 +1,4 @@
-##EMPLOYEE ATTRITION AND EMOTION DETECTION
+### EMPLOYEE ATTRITION AND EMOTION DETECTION
 
 You can run this project in your desktop by installing all the libraries and packages that are required. The requirements are listed in req.txt file. 
 Make sure that you set up a virtual environment and run this project in that virtual environment. 
